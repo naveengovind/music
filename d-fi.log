@@ -1,0 +1,371 @@
+{"message":"Selected music quality: 1","level":"debug","timestamp":"2020-10-20T11:13:31.709Z"}
+{"message":"Started download task: https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXcBWIGoYBM5M","level":"debug","timestamp":"2020-10-20T11:13:38.181Z"}
+{"message":"Got track list info for playlist: Today's Top Hits (37i9dQZF1DXcBWIGoYBM5M)","level":"debug","timestamp":"2020-10-20T11:13:43.841Z"}
+{"message":"Start downloading \"track/1028256512\"","level":"debug","timestamp":"2020-10-20T11:13:43.844Z"}
+{"message":"Start downloading \"track/1009681142\"","level":"debug","timestamp":"2020-10-20T11:13:43.846Z"}
+{"message":"Start downloading \"track/1084400712\"","level":"debug","timestamp":"2020-10-20T11:13:43.847Z"}
+{"message":"Start downloading \"track/1046369812\"","level":"debug","timestamp":"2020-10-20T11:13:43.848Z"}
+{"message":"Got album infos for album/158393832","level":"debug","timestamp":"2020-10-20T11:13:44.127Z"}
+{"message":"Started downloading track/1009681142 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:44.128Z"}
+{"message":"Got album infos for album/165989312","level":"debug","timestamp":"2020-10-20T11:13:44.136Z"}
+{"message":"Started downloading track/1046369812 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:44.137Z"}
+{"message":"Got album infos for album/174223092","level":"debug","timestamp":"2020-10-20T11:13:44.304Z"}
+{"message":"Started downloading track/1084400712 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:44.305Z"}
+{"message":"Got album infos for album/161984202","level":"debug","timestamp":"2020-10-20T11:13:44.382Z"}
+{"message":"Started downloading track/1028256512 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:44.383Z"}
+{"message":"Tagging Lemonade, #1046369812","level":"debug","timestamp":"2020-10-20T11:13:44.731Z"}
+{"message":"Tagging What You Know Bout Love, #1009681142","level":"debug","timestamp":"2020-10-20T11:13:45.114Z"}
+{"message":"Lyrics fetched from deezer: What You Know Bout Love, 1009681142","level":"debug","timestamp":"2020-10-20T11:13:45.291Z"}
+{"message":"Lyrics fetched from deezer: Lemonade, 1046369812","level":"debug","timestamp":"2020-10-20T11:13:45.354Z"}
+{"message":"Tagging Holy, #1084400712","level":"debug","timestamp":"2020-10-20T11:13:45.731Z"}
+{"message":"Fetched cover for What You Know Bout Love","level":"debug","timestamp":"2020-10-20T11:13:45.747Z"}
+{"message":"Started MP3 tagging \"track/1009681142\"","level":"debug","timestamp":"2020-10-20T11:13:45.750Z"}
+{"message":"Finished MP3 tagging \"track/1009681142\"","level":"debug","timestamp":"2020-10-20T11:13:45.973Z"}
+{"message":"Start downloading \"track/929158322\"","level":"debug","timestamp":"2020-10-20T11:13:45.974Z"}
+{"message":"Fetched cover for Lemonade","level":"debug","timestamp":"2020-10-20T11:13:45.979Z"}
+{"message":"Started MP3 tagging \"track/1046369812\"","level":"debug","timestamp":"2020-10-20T11:13:45.980Z"}
+{"message":"Finished MP3 tagging \"track/1046369812\"","level":"debug","timestamp":"2020-10-20T11:13:46.106Z"}
+{"message":"Start downloading \"track/1097366382\"","level":"debug","timestamp":"2020-10-20T11:13:46.106Z"}
+{"message":"Tagging Mood (feat. iann dior), #1028256512","level":"debug","timestamp":"2020-10-20T11:13:46.213Z"}
+{"message":"Fetched cover for Holy","level":"debug","timestamp":"2020-10-20T11:13:46.220Z"}
+{"message":"Fetched cover for Mood (feat. iann dior)","level":"debug","timestamp":"2020-10-20T11:13:46.234Z"}
+{"message":"Lyrics fetched from deezer: Mood (feat. iann dior), 1028256512","level":"debug","timestamp":"2020-10-20T11:13:46.341Z"}
+{"message":"Started MP3 tagging \"track/1028256512\"","level":"debug","timestamp":"2020-10-20T11:13:46.341Z"}
+{"message":"Finished MP3 tagging \"track/1028256512\"","level":"debug","timestamp":"2020-10-20T11:13:46.353Z"}
+{"message":"Start downloading \"track/1006845912\"","level":"debug","timestamp":"2020-10-20T11:13:46.353Z"}
+{"message":"Lyrics fetched from deezer: Holy, 1084400712","level":"debug","timestamp":"2020-10-20T11:13:46.356Z"}
+{"message":"Started MP3 tagging \"track/1084400712\"","level":"debug","timestamp":"2020-10-20T11:13:46.356Z"}
+{"message":"Finished MP3 tagging \"track/1084400712\"","level":"debug","timestamp":"2020-10-20T11:13:46.418Z"}
+{"message":"Start downloading \"track/1009681022\"","level":"debug","timestamp":"2020-10-20T11:13:46.418Z"}
+{"message":"Got album infos for album/158393832","level":"debug","timestamp":"2020-10-20T11:13:46.447Z"}
+{"message":"Started downloading track/1009681022 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:46.451Z"}
+{"message":"Got album infos for album/141630082","level":"debug","timestamp":"2020-10-20T11:13:46.559Z"}
+{"message":"Started downloading track/929158322 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:46.561Z"}
+{"message":"Got album infos for album/177111972","level":"debug","timestamp":"2020-10-20T11:13:46.598Z"}
+{"message":"Started downloading track/1097366382 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:46.599Z"}
+{"message":"Tagging For The Night, #1009681022","level":"debug","timestamp":"2020-10-20T11:13:46.788Z"}
+{"message":"Found cache for cover For The Night","level":"debug","timestamp":"2020-10-20T11:13:46.788Z"}
+{"message":"Got album infos for album/157795452","level":"debug","timestamp":"2020-10-20T11:13:46.937Z"}
+{"message":"Started downloading track/1006845912 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:46.938Z"}
+{"message":"Tagging you broke me first, #929158322","level":"debug","timestamp":"2020-10-20T11:13:47.251Z"}
+{"message":"Lyrics fetched from deezer: For The Night, 1009681022","level":"debug","timestamp":"2020-10-20T11:13:47.262Z"}
+{"message":"Started MP3 tagging \"track/1009681022\"","level":"debug","timestamp":"2020-10-20T11:13:47.262Z"}
+{"message":"Finished MP3 tagging \"track/1009681022\"","level":"debug","timestamp":"2020-10-20T11:13:47.715Z"}
+{"message":"Start downloading \"track/1110767312\"","level":"debug","timestamp":"2020-10-20T11:13:47.716Z"}
+{"message":"Tagging Wonder, #1097366382","level":"debug","timestamp":"2020-10-20T11:13:47.996Z"}
+{"message":"Fetched cover for you broke me first","level":"debug","timestamp":"2020-10-20T11:13:48.003Z"}
+{"message":"Lyrics fetched from deezer: you broke me first, 929158322","level":"debug","timestamp":"2020-10-20T11:13:48.005Z"}
+{"message":"Started MP3 tagging \"track/929158322\"","level":"debug","timestamp":"2020-10-20T11:13:48.005Z"}
+{"message":"Finished MP3 tagging \"track/929158322\"","level":"debug","timestamp":"2020-10-20T11:13:48.019Z"}
+{"message":"Start downloading \"track/1082463492\"","level":"debug","timestamp":"2020-10-20T11:13:48.019Z"}
+{"message":"Fetched cover for Wonder","level":"debug","timestamp":"2020-10-20T11:13:48.102Z"}
+{"message":"Tagging Head & Heart (feat. MNEK), #1006845912","level":"debug","timestamp":"2020-10-20T11:13:48.336Z"}
+{"message":"Lyrics fetched from deezer: Wonder, 1097366382","level":"debug","timestamp":"2020-10-20T11:13:48.343Z"}
+{"message":"Started MP3 tagging \"track/1097366382\"","level":"debug","timestamp":"2020-10-20T11:13:48.344Z"}
+{"message":"Finished MP3 tagging \"track/1097366382\"","level":"debug","timestamp":"2020-10-20T11:13:48.714Z"}
+{"message":"Start downloading \"track/1050306812\"","level":"debug","timestamp":"2020-10-20T11:13:48.715Z"}
+{"message":"Fetched cover for Head & Heart (feat. MNEK)","level":"debug","timestamp":"2020-10-20T11:13:48.730Z"}
+{"message":"Lyrics fetched from deezer: Head & Heart (feat. MNEK), 1006845912","level":"debug","timestamp":"2020-10-20T11:13:48.897Z"}
+{"message":"Started MP3 tagging \"track/1006845912\"","level":"debug","timestamp":"2020-10-20T11:13:48.898Z"}
+{"message":"Finished MP3 tagging \"track/1006845912\"","level":"debug","timestamp":"2020-10-20T11:13:49.022Z"}
+{"message":"Start downloading \"track/1030654822\"","level":"debug","timestamp":"2020-10-20T11:13:49.022Z"}
+{"message":"Got album infos for album/173805902","level":"debug","timestamp":"2020-10-20T11:13:49.026Z"}
+{"message":"Started downloading track/1082463492 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:49.028Z"}
+{"message":"Got album infos for album/166946302","level":"debug","timestamp":"2020-10-20T11:13:49.031Z"}
+{"message":"Started downloading track/1050306812 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:49.032Z"}
+{"message":"Got album infos for album/179934622","level":"debug","timestamp":"2020-10-20T11:13:49.101Z"}
+{"message":"Started downloading track/1110767312 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:49.101Z"}
+{"message":"Tagging Put Your Records On, #1082463492","level":"debug","timestamp":"2020-10-20T11:13:49.521Z"}
+{"message":"Tagging Laugh Now Cry Later, #1050306812","level":"debug","timestamp":"2020-10-20T11:13:50.107Z"}
+{"message":"Lyrics fetched from deezer: Put Your Records On, 1082463492","level":"debug","timestamp":"2020-10-20T11:13:50.114Z"}
+{"message":"Got album infos for album/162472912","level":"debug","timestamp":"2020-10-20T11:13:50.115Z"}
+{"message":"Started downloading track/1030654822 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:50.115Z"}
+{"message":"Fetched cover for Put Your Records On","level":"debug","timestamp":"2020-10-20T11:13:50.129Z"}
+{"message":"Started MP3 tagging \"track/1082463492\"","level":"debug","timestamp":"2020-10-20T11:13:50.129Z"}
+{"message":"Finished MP3 tagging \"track/1082463492\"","level":"debug","timestamp":"2020-10-20T11:13:50.418Z"}
+{"message":"Start downloading \"track/1063957682\"","level":"debug","timestamp":"2020-10-20T11:13:50.419Z"}
+{"message":"Lyrics fetched from deezer: Laugh Now Cry Later, 1050306812","level":"debug","timestamp":"2020-10-20T11:13:50.558Z"}
+{"message":"Tagging Lonely, #1110767312","level":"debug","timestamp":"2020-10-20T11:13:50.706Z"}
+{"message":"Fetched cover for Laugh Now Cry Later","level":"debug","timestamp":"2020-10-20T11:13:50.711Z"}
+{"message":"Started MP3 tagging \"track/1050306812\"","level":"debug","timestamp":"2020-10-20T11:13:50.712Z"}
+{"message":"Finished MP3 tagging \"track/1050306812\"","level":"debug","timestamp":"2020-10-20T11:13:50.843Z"}
+{"message":"Start downloading \"track/1093313332\"","level":"debug","timestamp":"2020-10-20T11:13:50.843Z"}
+{"message":"Fetched cover for Lonely","level":"debug","timestamp":"2020-10-20T11:13:50.869Z"}
+{"message":"Lyrics fetched from deezer: Lonely, 1110767312","level":"debug","timestamp":"2020-10-20T11:13:50.970Z"}
+{"message":"Started MP3 tagging \"track/1110767312\"","level":"debug","timestamp":"2020-10-20T11:13:50.970Z"}
+{"message":"Finished MP3 tagging \"track/1110767312\"","level":"debug","timestamp":"2020-10-20T11:13:51.109Z"}
+{"message":"Start downloading \"track/1085153582\"","level":"debug","timestamp":"2020-10-20T11:13:51.109Z"}
+{"message":"Tagging Take You Dancing, #1030654822","level":"debug","timestamp":"2020-10-20T11:13:51.345Z"}
+{"message":"Got album infos for album/169879342","level":"debug","timestamp":"2020-10-20T11:13:51.349Z"}
+{"message":"Started downloading track/1063957682 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:51.350Z"}
+{"message":"Got album infos for album/176151062","level":"debug","timestamp":"2020-10-20T11:13:51.351Z"}
+{"message":"Started downloading track/1093313332 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:51.351Z"}
+{"message":"Fetched cover for Take You Dancing","level":"debug","timestamp":"2020-10-20T11:13:51.363Z"}
+{"message":"Lyrics fetched from deezer: Take You Dancing, 1030654822","level":"debug","timestamp":"2020-10-20T11:13:51.483Z"}
+{"message":"Started MP3 tagging \"track/1030654822\"","level":"debug","timestamp":"2020-10-20T11:13:51.483Z"}
+{"message":"Finished MP3 tagging \"track/1030654822\"","level":"debug","timestamp":"2020-10-20T11:13:51.638Z"}
+{"message":"Start downloading \"track/831917182\"","level":"debug","timestamp":"2020-10-20T11:13:51.638Z"}
+{"message":"Got album infos for album/174373222","level":"debug","timestamp":"2020-10-20T11:13:51.651Z"}
+{"message":"Started downloading track/1085153582 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:51.654Z"}
+{"message":"Tagging Levitating (feat. DaBaby), #1093313332","level":"debug","timestamp":"2020-10-20T11:13:51.831Z"}
+{"message":"Fetched cover for Levitating (feat. DaBaby)","level":"debug","timestamp":"2020-10-20T11:13:51.883Z"}
+{"message":"Lyrics fetched from deezer: Levitating (feat. DaBaby), 1093313332","level":"debug","timestamp":"2020-10-20T11:13:51.968Z"}
+{"message":"Started MP3 tagging \"track/1093313332\"","level":"debug","timestamp":"2020-10-20T11:13:51.969Z"}
+{"message":"Finished MP3 tagging \"track/1093313332\"","level":"debug","timestamp":"2020-10-20T11:13:52.039Z"}
+{"message":"Start downloading \"track/810644262\"","level":"debug","timestamp":"2020-10-20T11:13:52.039Z"}
+{"message":"Tagging my ex's best friend, #1085153582","level":"debug","timestamp":"2020-10-20T11:13:52.180Z"}
+{"message":"Fetched cover for my ex's best friend","level":"debug","timestamp":"2020-10-20T11:13:52.215Z"}
+{"message":"Got album infos for album/122983832","level":"debug","timestamp":"2020-10-20T11:13:52.298Z"}
+{"message":"Started downloading track/831917182 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:52.299Z"}
+{"message":"Lyrics fetched from deezer: my ex's best friend, 1085153582","level":"debug","timestamp":"2020-10-20T11:13:52.312Z"}
+{"message":"Started MP3 tagging \"track/1085153582\"","level":"debug","timestamp":"2020-10-20T11:13:52.312Z"}
+{"message":"Finished MP3 tagging \"track/1085153582\"","level":"debug","timestamp":"2020-10-20T11:13:52.440Z"}
+{"message":"Start downloading \"track/1097366422\"","level":"debug","timestamp":"2020-10-20T11:13:52.441Z"}
+{"message":"Tagging Dynamite, #1063957682","level":"debug","timestamp":"2020-10-20T11:13:52.898Z"}
+{"message":"Tagging Breaking Me, #831917182","level":"debug","timestamp":"2020-10-20T11:13:53.202Z"}
+{"message":"Fetched cover for Dynamite","level":"debug","timestamp":"2020-10-20T11:13:53.207Z"}
+{"message":"Got album infos for album/119400582","level":"debug","timestamp":"2020-10-20T11:13:53.208Z"}
+{"message":"Started downloading track/810644262 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:53.208Z"}
+{"message":"Lyrics fetched from deezer: Dynamite, 1063957682","level":"debug","timestamp":"2020-10-20T11:13:53.209Z"}
+{"message":"Started MP3 tagging \"track/1063957682\"","level":"debug","timestamp":"2020-10-20T11:13:53.210Z"}
+{"message":"Finished MP3 tagging \"track/1063957682\"","level":"debug","timestamp":"2020-10-20T11:13:53.328Z"}
+{"message":"Start downloading \"track/932661672\"","level":"debug","timestamp":"2020-10-20T11:13:53.328Z"}
+{"message":"Fetched cover for Breaking Me","level":"debug","timestamp":"2020-10-20T11:13:53.348Z"}
+{"message":"Lyrics fetched from deezer: Breaking Me, 831917182","level":"debug","timestamp":"2020-10-20T11:13:53.461Z"}
+{"message":"Started MP3 tagging \"track/831917182\"","level":"debug","timestamp":"2020-10-20T11:13:53.461Z"}
+{"message":"Finished MP3 tagging \"track/831917182\"","level":"debug","timestamp":"2020-10-20T11:13:53.581Z"}
+{"message":"Start downloading \"track/1047497822\"","level":"debug","timestamp":"2020-10-20T11:13:53.581Z"}
+{"message":"Tagging Watermelon Sugar, #810644262","level":"debug","timestamp":"2020-10-20T11:13:53.824Z"}
+{"message":"Fetched cover for Watermelon Sugar","level":"debug","timestamp":"2020-10-20T11:13:53.841Z"}
+{"message":"Got album infos for album/142409332","level":"debug","timestamp":"2020-10-20T11:13:53.939Z"}
+{"message":"Started downloading track/932661672 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:53.939Z"}
+{"message":"Got album infos for album/177111982","level":"debug","timestamp":"2020-10-20T11:13:53.940Z"}
+{"message":"Started downloading track/1097366422 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:53.941Z"}
+{"message":"Lyrics fetched from deezer: Watermelon Sugar, 810644262","level":"debug","timestamp":"2020-10-20T11:13:53.946Z"}
+{"message":"Started MP3 tagging \"track/810644262\"","level":"debug","timestamp":"2020-10-20T11:13:53.947Z"}
+{"message":"Finished MP3 tagging \"track/810644262\"","level":"debug","timestamp":"2020-10-20T11:13:54.324Z"}
+{"message":"Start downloading \"track/1076918542\"","level":"debug","timestamp":"2020-10-20T11:13:54.325Z"}
+{"message":"Got album infos for album/166272642","level":"debug","timestamp":"2020-10-20T11:13:54.464Z"}
+{"message":"Started downloading track/1047497822 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:54.464Z"}
+{"message":"Tagging ROCKSTAR, #932661672","level":"debug","timestamp":"2020-10-20T11:13:54.895Z"}
+{"message":"Tagging Bet You Wanna, #1097366422","level":"debug","timestamp":"2020-10-20T11:13:55.200Z"}
+{"message":"Fetched cover for Bet You Wanna","level":"debug","timestamp":"2020-10-20T11:13:55.264Z"}
+{"message":"Fetched cover for ROCKSTAR","level":"debug","timestamp":"2020-10-20T11:13:55.298Z"}
+{"message":"Got album infos for album/172638842","level":"debug","timestamp":"2020-10-20T11:13:55.347Z"}
+{"message":"Started downloading track/1076918542 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:55.347Z"}
+{"message":"Lyrics fetched from deezer: Bet You Wanna, 1097366422","level":"debug","timestamp":"2020-10-20T11:13:55.365Z"}
+{"message":"Started MP3 tagging \"track/1097366422\"","level":"debug","timestamp":"2020-10-20T11:13:55.365Z"}
+{"message":"Finished MP3 tagging \"track/1097366422\"","level":"debug","timestamp":"2020-10-20T11:13:55.565Z"}
+{"message":"Start downloading \"track/954203752\"","level":"debug","timestamp":"2020-10-20T11:13:55.565Z"}
+{"message":"Lyrics fetched from deezer: ROCKSTAR, 932661672","level":"debug","timestamp":"2020-10-20T11:13:55.574Z"}
+{"message":"Started MP3 tagging \"track/932661672\"","level":"debug","timestamp":"2020-10-20T11:13:55.575Z"}
+{"message":"Finished MP3 tagging \"track/932661672\"","level":"debug","timestamp":"2020-10-20T11:13:55.589Z"}
+{"message":"Start downloading \"track/1044791832\"","level":"debug","timestamp":"2020-10-20T11:13:55.589Z"}
+{"message":"Tagging Midnight Sky, #1047497822","level":"debug","timestamp":"2020-10-20T11:13:56.234Z"}
+{"message":"Fetched cover for Midnight Sky","level":"debug","timestamp":"2020-10-20T11:13:56.293Z"}
+{"message":"Lyrics fetched from deezer: Midnight Sky, 1047497822","level":"debug","timestamp":"2020-10-20T11:13:56.414Z"}
+{"message":"Started MP3 tagging \"track/1047497822\"","level":"debug","timestamp":"2020-10-20T11:13:56.415Z"}
+{"message":"Finished MP3 tagging \"track/1047497822\"","level":"debug","timestamp":"2020-10-20T11:13:56.433Z"}
+{"message":"Start downloading \"track/1100678492\"","level":"debug","timestamp":"2020-10-20T11:13:56.433Z"}
+{"message":"Tagging Diamonds, #1076918542","level":"debug","timestamp":"2020-10-20T11:13:56.702Z"}
+{"message":"Fetched cover for Diamonds","level":"debug","timestamp":"2020-10-20T11:13:56.720Z"}
+{"message":"Got album infos for album/165664612","level":"debug","timestamp":"2020-10-20T11:13:56.819Z"}
+{"message":"Started downloading track/1044791832 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:56.820Z"}
+{"message":"Lyrics fetched from deezer: Diamonds, 1076918542","level":"debug","timestamp":"2020-10-20T11:13:56.823Z"}
+{"message":"Started MP3 tagging \"track/1076918542\"","level":"debug","timestamp":"2020-10-20T11:13:56.824Z"}
+{"message":"Finished MP3 tagging \"track/1076918542\"","level":"debug","timestamp":"2020-10-20T11:13:56.842Z"}
+{"message":"Start downloading \"track/1030980562\"","level":"debug","timestamp":"2020-10-20T11:13:56.842Z"}
+{"message":"Got album infos for album/147015862","level":"debug","timestamp":"2020-10-20T11:13:56.845Z"}
+{"message":"Started downloading track/954203752 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:56.846Z"}
+{"message":"Got album infos for album/177845062","level":"debug","timestamp":"2020-10-20T11:13:56.998Z"}
+{"message":"Started downloading track/1100678492 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:56.999Z"}
+{"message":"Tagging Go Crazy, #954203752","level":"debug","timestamp":"2020-10-20T11:13:57.263Z"}
+{"message":"Tagging WAP (feat. Megan Thee Stallion), #1044791832","level":"debug","timestamp":"2020-10-20T11:13:57.409Z"}
+{"message":"Fetched cover for Go Crazy","level":"debug","timestamp":"2020-10-20T11:13:57.461Z"}
+{"message":"Fetched cover for WAP (feat. Megan Thee Stallion)","level":"debug","timestamp":"2020-10-20T11:13:57.475Z"}
+{"message":"Got album infos for album/162565832","level":"debug","timestamp":"2020-10-20T11:13:57.534Z"}
+{"message":"Started downloading track/1030980562 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:57.534Z"}
+{"message":"Lyrics fetched from deezer: Go Crazy, 954203752","level":"debug","timestamp":"2020-10-20T11:13:57.536Z"}
+{"message":"Started MP3 tagging \"track/954203752\"","level":"debug","timestamp":"2020-10-20T11:13:57.536Z"}
+{"message":"Finished MP3 tagging \"track/954203752\"","level":"debug","timestamp":"2020-10-20T11:13:57.549Z"}
+{"message":"Start downloading \"track/1097366402\"","level":"debug","timestamp":"2020-10-20T11:13:57.549Z"}
+{"message":"Tagging Baby, I'm Jealous (feat. Doja Cat), #1100678492","level":"debug","timestamp":"2020-10-20T11:13:57.761Z"}
+{"message":"Lyrics fetched from deezer: WAP (feat. Megan Thee Stallion), 1044791832","level":"debug","timestamp":"2020-10-20T11:13:57.766Z"}
+{"message":"Started MP3 tagging \"track/1044791832\"","level":"debug","timestamp":"2020-10-20T11:13:57.767Z"}
+{"message":"Finished MP3 tagging \"track/1044791832\"","level":"debug","timestamp":"2020-10-20T11:13:57.779Z"}
+{"message":"Start downloading \"track/986939372\"","level":"debug","timestamp":"2020-10-20T11:13:57.780Z"}
+{"message":"Fetched cover for Baby, I'm Jealous (feat. Doja Cat)","level":"debug","timestamp":"2020-10-20T11:13:57.802Z"}
+{"message":"Tagging Mad at Disney, #1030980562","level":"debug","timestamp":"2020-10-20T11:13:58.080Z"}
+{"message":"Lyrics fetched from deezer: Baby, I'm Jealous (feat. Doja Cat), 1100678492","level":"debug","timestamp":"2020-10-20T11:13:58.086Z"}
+{"message":"Started MP3 tagging \"track/1100678492\"","level":"debug","timestamp":"2020-10-20T11:13:58.086Z"}
+{"message":"Finished MP3 tagging \"track/1100678492\"","level":"debug","timestamp":"2020-10-20T11:13:58.099Z"}
+{"message":"Start downloading \"track/1013422942\"","level":"debug","timestamp":"2020-10-20T11:13:58.100Z"}
+{"message":"Lyrics fetched from deezer: Mad at Disney, 1030980562","level":"debug","timestamp":"2020-10-20T11:13:58.218Z"}
+{"message":"Got album infos for album/153680822","level":"debug","timestamp":"2020-10-20T11:13:58.219Z"}
+{"message":"Started downloading track/986939372 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:58.220Z"}
+{"message":"Got album infos for album/159002872","level":"debug","timestamp":"2020-10-20T11:13:58.359Z"}
+{"message":"Started downloading track/1013422942 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:58.359Z"}
+{"message":"Tagging Savage Love (Laxed - Siren Beat), #986939372","level":"debug","timestamp":"2020-10-20T11:13:58.533Z"}
+{"message":"Fetched cover for Mad at Disney","level":"debug","timestamp":"2020-10-20T11:13:58.537Z"}
+{"message":"Started MP3 tagging \"track/1030980562\"","level":"debug","timestamp":"2020-10-20T11:13:58.537Z"}
+{"message":"Finished MP3 tagging \"track/1030980562\"","level":"debug","timestamp":"2020-10-20T11:13:58.549Z"}
+{"message":"Start downloading \"track/1024107672\"","level":"debug","timestamp":"2020-10-20T11:13:58.549Z"}
+{"message":"Fetched cover for Savage Love (Laxed - Siren Beat)","level":"debug","timestamp":"2020-10-20T11:13:58.572Z"}
+{"message":"Lyrics fetched from deezer: Savage Love (Laxed - Siren Beat), 986939372","level":"debug","timestamp":"2020-10-20T11:13:58.686Z"}
+{"message":"Started MP3 tagging \"track/986939372\"","level":"debug","timestamp":"2020-10-20T11:13:58.687Z"}
+{"message":"Finished MP3 tagging \"track/986939372\"","level":"debug","timestamp":"2020-10-20T11:13:58.704Z"}
+{"message":"Start downloading \"track/1073774942\"","level":"debug","timestamp":"2020-10-20T11:13:58.705Z"}
+{"message":"Tagging Daisy, #1013422942","level":"debug","timestamp":"2020-10-20T11:13:58.892Z"}
+{"message":"Fetched cover for Daisy","level":"debug","timestamp":"2020-10-20T11:13:58.910Z"}
+{"message":"Lyrics fetched from deezer: Daisy, 1013422942","level":"debug","timestamp":"2020-10-20T11:13:59.012Z"}
+{"message":"Started MP3 tagging \"track/1013422942\"","level":"debug","timestamp":"2020-10-20T11:13:59.012Z"}
+{"message":"Finished MP3 tagging \"track/1013422942\"","level":"debug","timestamp":"2020-10-20T11:13:59.026Z"}
+{"message":"Start downloading \"track/1087809252\"","level":"debug","timestamp":"2020-10-20T11:13:59.026Z"}
+{"message":"Got album infos for album/161309222","level":"debug","timestamp":"2020-10-20T11:13:59.147Z"}
+{"message":"Started downloading track/1024107672 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:59.148Z"}
+{"message":"Got album infos for album/171918382","level":"debug","timestamp":"2020-10-20T11:13:59.151Z"}
+{"message":"Started downloading track/1073774942 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:59.151Z"}
+{"message":"Tagging OK Not To Be OK, #1073774942","level":"debug","timestamp":"2020-10-20T11:13:59.523Z"}
+{"message":"Tagging POPSTAR, #1024107672","level":"debug","timestamp":"2020-10-20T11:13:59.687Z"}
+{"message":"Got album infos for album/177111982","level":"debug","timestamp":"2020-10-20T11:13:59.700Z"}
+{"message":"Started downloading track/1097366402 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:59.701Z"}
+{"message":"Fetched cover for OK Not To Be OK","level":"debug","timestamp":"2020-10-20T11:13:59.703Z"}
+{"message":"Fetched cover for POPSTAR","level":"debug","timestamp":"2020-10-20T11:13:59.724Z"}
+{"message":"Got album infos for album/174965452","level":"debug","timestamp":"2020-10-20T11:13:59.814Z"}
+{"message":"Started downloading track/1087809252 in quality 3","level":"debug","timestamp":"2020-10-20T11:13:59.816Z"}
+{"message":"Lyrics fetched from deezer: OK Not To Be OK, 1073774942","level":"debug","timestamp":"2020-10-20T11:13:59.832Z"}
+{"message":"Started MP3 tagging \"track/1073774942\"","level":"debug","timestamp":"2020-10-20T11:13:59.832Z"}
+{"message":"Finished MP3 tagging \"track/1073774942\"","level":"debug","timestamp":"2020-10-20T11:13:59.847Z"}
+{"message":"Start downloading \"track/684441642\"","level":"debug","timestamp":"2020-10-20T11:13:59.847Z"}
+{"message":"Lyrics fetched from deezer: POPSTAR, 1024107672","level":"debug","timestamp":"2020-10-20T11:13:59.856Z"}
+{"message":"Started MP3 tagging \"track/1024107672\"","level":"debug","timestamp":"2020-10-20T11:13:59.856Z"}
+{"message":"Finished MP3 tagging \"track/1024107672\"","level":"debug","timestamp":"2020-10-20T11:13:59.874Z"}
+{"message":"Start downloading \"track/1088536552\"","level":"debug","timestamp":"2020-10-20T11:13:59.874Z"}
+{"message":"Tagging Ice Cream, #1097366402","level":"debug","timestamp":"2020-10-20T11:14:00.093Z"}
+{"message":"Found cache for cover Ice Cream","level":"debug","timestamp":"2020-10-20T11:14:00.093Z"}
+{"message":"Tagging Your Man, #1087809252","level":"debug","timestamp":"2020-10-20T11:14:00.339Z"}
+{"message":"Lyrics fetched from deezer: Ice Cream, 1097366402","level":"debug","timestamp":"2020-10-20T11:14:00.348Z"}
+{"message":"Started MP3 tagging \"track/1097366402\"","level":"debug","timestamp":"2020-10-20T11:14:00.348Z"}
+{"message":"Finished MP3 tagging \"track/1097366402\"","level":"debug","timestamp":"2020-10-20T11:14:00.363Z"}
+{"message":"Start downloading \"track/1053930962\"","level":"debug","timestamp":"2020-10-20T11:14:00.363Z"}
+{"message":"Fetched cover for Your Man","level":"debug","timestamp":"2020-10-20T11:14:00.383Z"}
+{"message":"Lyrics fetched from deezer: Your Man, 1087809252","level":"debug","timestamp":"2020-10-20T11:14:00.483Z"}
+{"message":"Started MP3 tagging \"track/1087809252\"","level":"debug","timestamp":"2020-10-20T11:14:00.483Z"}
+{"message":"Finished MP3 tagging \"track/1087809252\"","level":"debug","timestamp":"2020-10-20T11:14:00.494Z"}
+{"message":"Start downloading \"track/1031567822\"","level":"debug","timestamp":"2020-10-20T11:14:00.494Z"}
+{"message":"Got album infos for album/175086882","level":"debug","timestamp":"2020-10-20T11:14:00.497Z"}
+{"message":"Started downloading track/1088536552 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:00.498Z"}
+{"message":"Got album infos for album/97903052","level":"debug","timestamp":"2020-10-20T11:14:00.499Z"}
+{"message":"Started downloading track/684441642 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:00.500Z"}
+{"message":"Got album infos for album/167814232","level":"debug","timestamp":"2020-10-20T11:14:00.663Z"}
+{"message":"Started downloading track/1053930962 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:00.664Z"}
+{"message":"Tagging Better, #1088536552","level":"debug","timestamp":"2020-10-20T11:14:01.037Z"}
+{"message":"Tagging Sofia, #684441642","level":"debug","timestamp":"2020-10-20T11:14:01.236Z"}
+{"message":"Got album infos for album/162736072","level":"debug","timestamp":"2020-10-20T11:14:01.241Z"}
+{"message":"Started downloading track/1031567822 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:01.242Z"}
+{"message":"Fetched cover for Better","level":"debug","timestamp":"2020-10-20T11:14:01.272Z"}
+{"message":"Fetched cover for Sofia","level":"debug","timestamp":"2020-10-20T11:14:01.318Z"}
+{"message":"Tagging Tick Tock (feat. 24kGoldn), #1053930962","level":"debug","timestamp":"2020-10-20T11:14:01.512Z"}
+{"message":"Lyrics fetched from deezer: Better, 1088536552","level":"debug","timestamp":"2020-10-20T11:14:01.516Z"}
+{"message":"Started MP3 tagging \"track/1088536552\"","level":"debug","timestamp":"2020-10-20T11:14:01.516Z"}
+{"message":"Finished MP3 tagging \"track/1088536552\"","level":"debug","timestamp":"2020-10-20T11:14:01.532Z"}
+{"message":"Start downloading \"track/1068853152\"","level":"debug","timestamp":"2020-10-20T11:14:01.532Z"}
+{"message":"Lyrics fetched from deezer: Sofia, 684441642","level":"debug","timestamp":"2020-10-20T11:14:01.535Z"}
+{"message":"Started MP3 tagging \"track/684441642\"","level":"debug","timestamp":"2020-10-20T11:14:01.535Z"}
+{"message":"Finished MP3 tagging \"track/684441642\"","level":"debug","timestamp":"2020-10-20T11:14:01.552Z"}
+{"message":"Start downloading \"track/1009114802\"","level":"debug","timestamp":"2020-10-20T11:14:01.552Z"}
+{"message":"Tagging Deep End, #1031567822","level":"debug","timestamp":"2020-10-20T11:14:01.850Z"}
+{"message":"Fetched cover for Tick Tock (feat. 24kGoldn)","level":"debug","timestamp":"2020-10-20T11:14:01.863Z"}
+{"message":"Lyrics fetched from deezer: Tick Tock (feat. 24kGoldn), 1053930962","level":"debug","timestamp":"2020-10-20T11:14:01.865Z"}
+{"message":"Started MP3 tagging \"track/1053930962\"","level":"debug","timestamp":"2020-10-20T11:14:01.865Z"}
+{"message":"Finished MP3 tagging \"track/1053930962\"","level":"debug","timestamp":"2020-10-20T11:14:01.881Z"}
+{"message":"Start downloading \"track/1016968502\"","level":"debug","timestamp":"2020-10-20T11:14:01.881Z"}
+{"message":"Fetched cover for Deep End","level":"debug","timestamp":"2020-10-20T11:14:01.890Z"}
+{"message":"Got album infos for album/158264952","level":"debug","timestamp":"2020-10-20T11:14:02.135Z"}
+{"message":"Started downloading track/1009114802 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:02.136Z"}
+{"message":"Got album infos for album/170898912","level":"debug","timestamp":"2020-10-20T11:14:02.146Z"}
+{"message":"Started downloading track/1068853152 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:02.146Z"}
+{"message":"Got album infos for album/159826232","level":"debug","timestamp":"2020-10-20T11:14:02.182Z"}
+{"message":"Started downloading track/1016968502 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:02.183Z"}
+{"message":"Tagging Be Like That, #1009114802","level":"debug","timestamp":"2020-10-20T11:14:02.718Z"}
+{"message":"Tagging Wolves, #1068853152","level":"debug","timestamp":"2020-10-20T11:14:02.874Z"}
+{"message":"Fetched cover for Be Like That","level":"debug","timestamp":"2020-10-20T11:14:02.880Z"}
+{"message":"Fetched cover for Wolves","level":"debug","timestamp":"2020-10-20T11:14:02.903Z"}
+{"message":"Lyrics fetched from deezer: Be Like That, 1009114802","level":"debug","timestamp":"2020-10-20T11:14:02.987Z"}
+{"message":"Started MP3 tagging \"track/1009114802\"","level":"debug","timestamp":"2020-10-20T11:14:02.987Z"}
+{"message":"Finished MP3 tagging \"track/1009114802\"","level":"debug","timestamp":"2020-10-20T11:14:03.001Z"}
+{"message":"Start downloading \"track/1097090212\"","level":"debug","timestamp":"2020-10-20T11:14:03.002Z"}
+{"message":"Lyrics fetched from deezer: Wolves, 1068853152","level":"debug","timestamp":"2020-10-20T11:14:03.021Z"}
+{"message":"Started MP3 tagging \"track/1068853152\"","level":"debug","timestamp":"2020-10-20T11:14:03.021Z"}
+{"message":"Finished MP3 tagging \"track/1068853152\"","level":"debug","timestamp":"2020-10-20T11:14:03.036Z"}
+{"message":"Start downloading \"track/761653242\"","level":"debug","timestamp":"2020-10-20T11:14:03.036Z"}
+{"message":"Tagging Come & Go, #1016968502","level":"debug","timestamp":"2020-10-20T11:14:03.247Z"}
+{"message":"Fetched cover for Come & Go","level":"debug","timestamp":"2020-10-20T11:14:03.265Z"}
+{"message":"Lyrics error musixmatch: Deep End, 1031567822, Error: No song found!","level":"debug","timestamp":"2020-10-20T11:14:03.362Z"}
+{"message":"Started MP3 tagging \"track/1031567822\"","level":"debug","timestamp":"2020-10-20T11:14:03.363Z"}
+{"message":"Finished MP3 tagging \"track/1031567822\"","level":"debug","timestamp":"2020-10-20T11:14:03.372Z"}
+{"message":"Start downloading \"track/903771442\"","level":"debug","timestamp":"2020-10-20T11:14:03.372Z"}
+{"message":"Lyrics fetched from deezer: Come & Go, 1016968502","level":"debug","timestamp":"2020-10-20T11:14:03.375Z"}
+{"message":"Started MP3 tagging \"track/1016968502\"","level":"debug","timestamp":"2020-10-20T11:14:03.375Z"}
+{"message":"Finished MP3 tagging \"track/1016968502\"","level":"debug","timestamp":"2020-10-20T11:14:03.395Z"}
+{"message":"Start downloading \"track/1089612082\"","level":"debug","timestamp":"2020-10-20T11:14:03.396Z"}
+{"message":"Got album infos for album/177029662","level":"debug","timestamp":"2020-10-20T11:14:03.398Z"}
+{"message":"Started downloading track/1097090212 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:03.398Z"}
+{"message":"Got album infos for album/112295182","level":"debug","timestamp":"2020-10-20T11:14:03.531Z"}
+{"message":"Started downloading track/761653242 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:03.531Z"}
+{"message":"Tagging Mr. Right Now (feat. Drake), #1097090212","level":"debug","timestamp":"2020-10-20T11:14:03.724Z"}
+{"message":"Fetched cover for Mr. Right Now (feat. Drake)","level":"debug","timestamp":"2020-10-20T11:14:03.803Z"}
+{"message":"Lyrics fetched from deezer: Mr. Right Now (feat. Drake), 1097090212","level":"debug","timestamp":"2020-10-20T11:14:03.864Z"}
+{"message":"Started MP3 tagging \"track/1097090212\"","level":"debug","timestamp":"2020-10-20T11:14:03.865Z"}
+{"message":"Finished MP3 tagging \"track/1097090212\"","level":"debug","timestamp":"2020-10-20T11:14:03.882Z"}
+{"message":"Start downloading \"track/1081196312\"","level":"debug","timestamp":"2020-10-20T11:14:03.883Z"}
+{"message":"Got album infos for album/136402362","level":"debug","timestamp":"2020-10-20T11:14:03.885Z"}
+{"message":"Started downloading track/903771442 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:03.885Z"}
+{"message":"Got album infos for album/175343212","level":"debug","timestamp":"2020-10-20T11:14:03.887Z"}
+{"message":"Started downloading track/1089612082 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:03.887Z"}
+{"message":"Tagging Still Don't Know My Name, #761653242","level":"debug","timestamp":"2020-10-20T11:14:04.008Z"}
+{"message":"Fetched cover for Still Don't Know My Name","level":"debug","timestamp":"2020-10-20T11:14:04.081Z"}
+{"message":"Lyrics fetched from deezer: Still Don't Know My Name, 761653242","level":"debug","timestamp":"2020-10-20T11:14:04.161Z"}
+{"message":"Started MP3 tagging \"track/761653242\"","level":"debug","timestamp":"2020-10-20T11:14:04.161Z"}
+{"message":"Finished MP3 tagging \"track/761653242\"","level":"debug","timestamp":"2020-10-20T11:14:04.173Z"}
+{"message":"Start downloading \"track/1000055232\"","level":"debug","timestamp":"2020-10-20T11:14:04.173Z"}
+{"message":"Tagging Heather, #903771442","level":"debug","timestamp":"2020-10-20T11:14:04.518Z"}
+{"message":"Tagging FRANCHISE (feat. Young Thug & M.I.A.), #1089612082","level":"debug","timestamp":"2020-10-20T11:14:04.677Z"}
+{"message":"Got album infos for album/173478082","level":"debug","timestamp":"2020-10-20T11:14:04.682Z"}
+{"message":"Started downloading track/1081196312 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:04.684Z"}
+{"message":"Fetched cover for Heather","level":"debug","timestamp":"2020-10-20T11:14:04.691Z"}
+{"message":"Fetched cover for FRANCHISE (feat. Young Thug & M.I.A.)","level":"debug","timestamp":"2020-10-20T11:14:04.716Z"}
+{"message":"Lyrics fetched from deezer: Heather, 903771442","level":"debug","timestamp":"2020-10-20T11:14:04.816Z"}
+{"message":"Started MP3 tagging \"track/903771442\"","level":"debug","timestamp":"2020-10-20T11:14:04.817Z"}
+{"message":"Finished MP3 tagging \"track/903771442\"","level":"debug","timestamp":"2020-10-20T11:14:04.833Z"}
+{"message":"Start downloading \"track/1015793062\"","level":"debug","timestamp":"2020-10-20T11:14:04.833Z"}
+{"message":"Lyrics fetched from deezer: FRANCHISE (feat. Young Thug & M.I.A.), 1089612082","level":"debug","timestamp":"2020-10-20T11:14:04.838Z"}
+{"message":"Started MP3 tagging \"track/1089612082\"","level":"debug","timestamp":"2020-10-20T11:14:04.838Z"}
+{"message":"Finished MP3 tagging \"track/1089612082\"","level":"debug","timestamp":"2020-10-20T11:14:04.853Z"}
+{"message":"Start downloading \"track/1032957942\"","level":"debug","timestamp":"2020-10-20T11:14:04.853Z"}
+{"message":"Tagging Me Gusta (with Cardi B & Myke Towers), #1081196312","level":"debug","timestamp":"2020-10-20T11:14:05.106Z"}
+{"message":"Got album infos for album/156314522","level":"debug","timestamp":"2020-10-20T11:14:05.217Z"}
+{"message":"Started downloading track/1000055232 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:05.218Z"}
+{"message":"Lyrics fetched from deezer: Me Gusta (with Cardi B & Myke Towers), 1081196312","level":"debug","timestamp":"2020-10-20T11:14:05.233Z"}
+{"message":"Fetched cover for Me Gusta (with Cardi B & Myke Towers)","level":"debug","timestamp":"2020-10-20T11:14:05.290Z"}
+{"message":"Started MP3 tagging \"track/1081196312\"","level":"debug","timestamp":"2020-10-20T11:14:05.291Z"}
+{"message":"Finished MP3 tagging \"track/1081196312\"","level":"debug","timestamp":"2020-10-20T11:14:05.303Z"}
+{"message":"Got album infos for album/163017682","level":"debug","timestamp":"2020-10-20T11:14:05.346Z"}
+{"message":"Started downloading track/1032957942 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:05.347Z"}
+{"message":"Got album infos for album/159529882","level":"debug","timestamp":"2020-10-20T11:14:05.358Z"}
+{"message":"Started downloading track/1015793062 in quality 3","level":"debug","timestamp":"2020-10-20T11:14:05.358Z"}
+{"message":"Tagging Stunnin' (feat. Harm Franklin), #1000055232","level":"debug","timestamp":"2020-10-20T11:14:05.468Z"}
+{"message":"Fetched cover for Stunnin' (feat. Harm Franklin)","level":"debug","timestamp":"2020-10-20T11:14:05.550Z"}
+{"message":"Lyrics fetched from deezer: Stunnin' (feat. Harm Franklin), 1000055232","level":"debug","timestamp":"2020-10-20T11:14:05.610Z"}
+{"message":"Started MP3 tagging \"track/1000055232\"","level":"debug","timestamp":"2020-10-20T11:14:05.610Z"}
+{"message":"Finished MP3 tagging \"track/1000055232\"","level":"debug","timestamp":"2020-10-20T11:14:05.620Z"}
+{"message":"Tagging Hawái, #1032957942","level":"debug","timestamp":"2020-10-20T11:14:05.842Z"}
+{"message":"Fetched cover for Hawái","level":"debug","timestamp":"2020-10-20T11:14:05.904Z"}
+{"message":"Lyrics fetched from deezer: Hawái, 1032957942","level":"debug","timestamp":"2020-10-20T11:14:05.972Z"}
+{"message":"Started MP3 tagging \"track/1032957942\"","level":"debug","timestamp":"2020-10-20T11:14:05.972Z"}
+{"message":"Finished MP3 tagging \"track/1032957942\"","level":"debug","timestamp":"2020-10-20T11:14:05.986Z"}
+{"message":"Tagging Jerusalema (feat. Nomcebo Zikode), #1015793062","level":"debug","timestamp":"2020-10-20T11:14:06.504Z"}
+{"message":"Fetched cover for Jerusalema (feat. Nomcebo Zikode)","level":"debug","timestamp":"2020-10-20T11:14:06.523Z"}
+{"message":"Lyrics fetched from deezer: Jerusalema (feat. Nomcebo Zikode), 1015793062","level":"debug","timestamp":"2020-10-20T11:14:06.621Z"}
+{"message":"Started MP3 tagging \"track/1015793062\"","level":"debug","timestamp":"2020-10-20T11:14:06.621Z"}
+{"message":"Finished MP3 tagging \"track/1015793062\"","level":"debug","timestamp":"2020-10-20T11:14:07.155Z"}
